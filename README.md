@@ -18,4 +18,7 @@ Resources relevant to Research Computing
 
 * Colorado Boulder Research Computing - https://github.com/ResearchComputing
 * Berkley SCF - https://github.com/berkeley-scf
-
+* Duke Center for Genomic & Computational Biology - https://github.com/Duke-GCB
+* Stanford - https://github.com/stanford-rc
+* UC Merced - https://github.com/ucmerced/merced-cluster/wiki/Getting-Help-With-Research-Computing
+* West Virginia University - https://github.com/WVUHPC
