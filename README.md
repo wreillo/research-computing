@@ -1,4 +1,4 @@
-# Resources
+# Research Computing Sites
 A collection of public sites relevant to Research Computing across the US. Please do not hesitate to make your contribution(s)!
 
 
