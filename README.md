@@ -1,5 +1,5 @@
 # Research Computing Sites
-A collection of public sites relevant to Research Computing across the US. Please do not hesitate to make your contribution(s)!
+A collection of public sites relevant to Research Computing across the US. Please do not hesitate to open a Pull Request to add your contribution(s)!
 
 
 | University | Website | GitHub |
@@ -17,4 +17,6 @@ A collection of public sites relevant to Research Computing across the US. Pleas
 | U of Florida | https://www.rc.ufl.edu/ | https://github.com/UFResearchComputing |
 | UC Berkeley | https://research-it.berkeley.edu/programs/berkeley-research-computing | https://github.com/ucb-rit |
 | UC Merced | https://it.ucmerced.edu/CIRT | https://github.com/ucmerced |
-| West Virginia University | https://github.com/WVUHPC | https://it.wvu.edu/research/research-computing |
+| West Virginia University | https://it.wvu.edu/research/research-computing | https://github.com/WVUHPC |
+| UMass | https://mghpcc.umass.edu/ | https://github.com/UMass-RC |
+
