@@ -1,5 +1,5 @@
-# Research Computing Sites
-A collection of public sites relevant to Research Computing across the US. Please do not hesitate to open a Pull Request to add your contribution(s)!
+# Research Computing Websites
+A collection of public websites relevant to Research Computing across the US. Please do not hesitate to open a Pull Request to add your contribution(s)!
 
 
 | University | Website | GitHub |
