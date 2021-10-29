@@ -19,6 +19,7 @@ A collection of public websites relevant to Research Computing across the US. Pl
 | UC Merced | https://it.ucmerced.edu/CIRT | https://github.com/ucmerced |
 | UMass | https://mghpcc.umass.edu/ | https://github.com/UMass-RC |
 | U of Utah | |https://github.com/CHPC-UofU|
+| Virginia Tech | https://arc.vt.edu/ | https://github.com/AdvancedResearchComputing |
 | West Virginia University | https://it.wvu.edu/research/research-computing | https://github.com/WVUHPC |
 | Yale | http://research.computing.yale.edu/ | https://github.com/ycrc |
 
