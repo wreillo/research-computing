@@ -5,11 +5,11 @@ A collection of public websites relevant to Research Computing across the US. Pl
 | University | Website | GitHub |
 | --- | --- | --- |
 | Boston University | https://www.bu.edu/tech/services/research/ | https://github.com/bu-rcs |
-| Dartmouth | https://rc.dartmouth.edu/ | N/A |
+| Dartmouth | https://rc.dartmouth.edu/ | |
 | Duke | https://rc.duke.edu/ | https://github.com/Duke-GCB |
 | Harvard FAS| https://www.rc.fas.harvard.edu/ | https://github.com/fasrc |
 | Harvard HMS | https://rc.hms.harvard.edu/ | https://github.com/hmsrc |
-| MIT | https://research.mit.edu/research-resources/research-computing | N/A |
+| MIT | https://research.mit.edu/research-resources/research-computing |  |
 | Northeastern University | https://rc.northeastern.edu/ | https://github.com/northeastern-rc |
 | Princeton | https://researchcomputing.princeton.edu/ | https://github.com/PrincetonUniversity |
 | Stanford | https://srcc.stanford.edu/ | https://github.com/stanford-rc |
