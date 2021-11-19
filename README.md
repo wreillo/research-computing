@@ -15,6 +15,7 @@ A collection of public websites relevant to Research Computing across the US. Pl
 | MIT | https://research.mit.edu/research-resources/research-computing |  |
 | Northeastern University | https://rc.northeastern.edu/ | https://github.com/northeastern-rc |
 | Princeton | https://researchcomputing.princeton.edu/ | https://github.com/PrincetonUniversity |
+| San Diego Supercomputer Center | https://www.sdsc.edu/ | https://github.com/sdsc |
 | Stanford | https://srcc.stanford.edu/ | https://github.com/stanford-rc |
 | Tufts | https://it.tufts.edu/high-performance-computing | |
 | U of Florida | https://www.rc.ufl.edu/ | https://github.com/UFResearchComputing |
