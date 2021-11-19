@@ -5,6 +5,8 @@ A collection of public websites relevant to Research Computing across the US. Pl
 | University | Website | GitHub |
 | --- | --- | --- |
 | Boston University | https://www.bu.edu/tech/services/research/ | https://github.com/bu-rcs |
+| Brown | https://ccv.brown.edu/ | https://github.com/brown-ccv/ |
+| Columbia | https://cuit.columbia.edu/shared-research-computing-facility | https://github.com/columbia-it |
 | Dartmouth | https://rc.dartmouth.edu/ | |
 | Duke | https://rc.duke.edu/ | https://github.com/Duke-GCB |
 | Harvard FAS| https://www.rc.fas.harvard.edu/ | https://github.com/fasrc |
